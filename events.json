@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octo-landing",
+    "description": "A polished landing page for a product launch.",
+    "language": "HTML",
+    "stars": 128,
+    "url": "https://github.com/example/octo-landing"
+  },
+  {
+    "name": "pixel-notes",
+    "description": "A lightweight note-taking app with a clean UI.",
+    "language": "JavaScript",
+    "stars": 96,
+    "url": "https://github.com/example/pixel-notes"
+  },
+  {
+    "name": "syntax-spark",
+    "description": "A syntax highlighting playground for developers.",
+    "language": "TypeScript",
+    "stars": 74,
+    "url": "https://github.com/example/syntax-spark"
+  }
+]
